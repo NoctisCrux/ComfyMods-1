@@ -15,10 +15,6 @@
 
 ## Changelog
 
-### 1.1.0
-
-  * Added Stone Floor 4x4 prefab to the Hammer's "Building" Options. 
-
 ### 1.0.0
-
-  * Initial release.
+  * Initial Release
+  * Added Stone Floor 4x4 prefab to the Hammer's "Building" Options. 
